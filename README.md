@@ -21,6 +21,6 @@ Check out my personal [website](https://example.com) (Not yet ready)
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ## So Lonely
-[![](https://visitcount.itsvg.in/api?id=ko-phi&icon=1&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ko-phi&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
